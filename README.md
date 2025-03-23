@@ -21,7 +21,7 @@
   - **E-mail:** francescofausto.franchina.job@gmail.com
   - **Linkedin:**
 ## 🗃️ My projects
-My Github page contains some projects I've worked on, at least the most important ones. Tipically, you'll find here presentations, executables (when possible), and codes of those projects. 
+My Github page contains some projects I've worked on, at least the most important ones. Typically, you'll find here presentations, executables (when possible), and codes of those projects. 
 Part of the material is in Italian, as it includes projects completed during my university studies in Italy.
 
 
