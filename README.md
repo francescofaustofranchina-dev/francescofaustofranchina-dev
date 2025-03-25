@@ -2,7 +2,7 @@
   - 💻 Passionate about software development
   - 🎓 Bachelor's Degree in Computer Engineering (110/110 cum laude)
 ## 🛠️ Technical skills
-  - ⌨️ **Programming languages:** Java, Kotlin, C, C++, C#, MATLAB, Python
+  - ⌨️ **Programming languages:** Java, Kotlin, C, C#, C++, MATLAB, Python
   - 📄 **Markup languages:** LaTeX, XML
   - 📐 **Software modeling languages:** UML
   - 🔍 **Query languages:** SQL
