@@ -1,14 +1,15 @@
 ## 🚀 About me
   - 💻 Passionate about software development
   - 🎓 Bachelor's Degree in Computer Engineering (110/110 cum laude)
+  - :godmode: Currently taking a Master Degree in Artificial Intelligence and Data Analytics
 ## 🛠️ Technical skills
-  - ⌨️ **Programming languages:** Java, Kotlin, C, C#, C++, MATLAB, Python
-  - 📄 **Markup languages:** LaTeX, XML
+  - ⌨️ **Programming languages:** Java, Kotlin, C, C#, C++, Python, MATLAB, Rust (currently learning)
+  - 📄 **Markup languages:** XML, HTML, CSS, LaTeX
   - 📐 **Software modeling languages:** UML
   - 🔍 **Query languages:** SQL
   - 💾 **Database:** MySQL
   - 🖥️ **Operating systems:** Windows, Linux
-  - 🔧 **Tools:** Visual Studio Code, Android Studio, Git, Unity Engine, MATLAB, MySQL Workbench, Astah UML, Overleaf, Blender
+  - 🔧 **Tools:** Visual Studio Code, Unity Engine, Android Studio, Git, MySQL Workbench, MATLAB, Astah UML, Overleaf, Blender
 ## 🎯 My interests
   - 🎮 Video game development
   - 🖥️ Desktop software development
