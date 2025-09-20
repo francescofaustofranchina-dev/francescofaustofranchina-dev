@@ -16,7 +16,7 @@
   - 🧩 Algorithms and problem solving
 ## 🚩 Future objectives
   - Studying AI
-  - Improving my game development abilities
+  - Improving my game development skills
   - Learning more about Linux and operating systems in general
 ## 📫 How to reach me
   - **E-mail:** francescofausto.franchina.job@gmail.com
